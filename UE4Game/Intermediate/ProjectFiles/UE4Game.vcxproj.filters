@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE4Game.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{88241B25-7067-4D0E-A1DF-4013625B94C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE4Game.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE4GameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\West_Tank_M1A1Abrams.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{1961F613-4070-4775-AD9F-7F02A3724E2E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE4Game">
+      <UniqueIdentifier>{7E8CF531-161C-4C7F-A281-D772BA207637}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE4Game\UE4Game.Build.cs">
+      <Filter>Source\UE4Game</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE4Game\UE4Game.cpp">
+      <Filter>Source\UE4Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4Game\UE4Game.h">
+      <Filter>Source\UE4Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE4Game\UE4GameGameModeBase.cpp">
+      <Filter>Source\UE4Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4Game\UE4GameGameModeBase.h">
+      <Filter>Source\UE4Game</Filter>
+    </ClInclude>
+    <Filter Include="Source\UE4Game\Private">
+      <UniqueIdentifier>{A18D6BDE-29E5-48C9-94FA-8EC4A1BDD854}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE4Game\Private\Tile.cpp">
+      <Filter>Source\UE4Game\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UE4Game\Public">
+      <UniqueIdentifier>{AF45C0B9-AEC7-4B29-AC8C-0A44E88B45E7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UE4Game\Public\Tile.h">
+      <Filter>Source\UE4Game\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
