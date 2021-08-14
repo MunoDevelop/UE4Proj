@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE4Game-4492.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\MapGenerator.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\Tile.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\UE4Game.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\UE4GameGameModeBase.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\MapGenerator.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\Tile.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\UE4Game.init.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\UE4GameGameModeBase.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\UE4Proj\UE4Game\Intermediate\Build\Win64\UE4Editor\Development\UE4Game\UE4Editor-UE4Game-4492.lib"
+/INCLUDE:IMPLEMENT_MODULE_UE4Game

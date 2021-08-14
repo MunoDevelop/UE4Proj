@@ -1,6 +1,7 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
+/**
+*  ? 2021 MunoDevelop <huozuyinshua@gmail.com>
+*  
+*/
 #include "Tile.h"
 
 // Sets default values

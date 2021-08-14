@@ -1,6 +1,11 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+/**
+*  ? 2021 MunoDevelop <huozuyinshua@gmail.com>
+*  
+*/
 
 #pragma once
+#pragma warning(disable: 4668)
+
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"

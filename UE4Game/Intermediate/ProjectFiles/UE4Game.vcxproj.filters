@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UE4Game.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{88241B25-7067-4D0E-A1DF-4013625B94C9}</UniqueIdentifier>
+      <UniqueIdentifier>{F00AC664-B3B9-408C-B9F6-84075FC4F15B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UE4Game.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\West_Tank_M1A1Abrams.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{1961F613-4070-4775-AD9F-7F02A3724E2E}</UniqueIdentifier>
+      <UniqueIdentifier>{05B04C7C-527B-45C5-BD10-B28DA4AD9AD5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -25,7 +25,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UE4Game">
-      <UniqueIdentifier>{7E8CF531-161C-4C7F-A281-D772BA207637}</UniqueIdentifier>
+      <UniqueIdentifier>{3886749D-B027-470A-9414-7C250BE73294}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UE4Game\UE4Game.Build.cs">
       <Filter>Source\UE4Game</Filter>
@@ -43,14 +43,20 @@
       <Filter>Source\UE4Game</Filter>
     </ClInclude>
     <Filter Include="Source\UE4Game\Private">
-      <UniqueIdentifier>{A18D6BDE-29E5-48C9-94FA-8EC4A1BDD854}</UniqueIdentifier>
+      <UniqueIdentifier>{E7B08099-08F2-4815-A5A6-276F47C3C693}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UE4Game\Private\MapGenerator.cpp">
+      <Filter>Source\UE4Game\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UE4Game\Private\Tile.cpp">
       <Filter>Source\UE4Game\Private</Filter>
     </ClCompile>
     <Filter Include="Source\UE4Game\Public">
-      <UniqueIdentifier>{AF45C0B9-AEC7-4B29-AC8C-0A44E88B45E7}</UniqueIdentifier>
+      <UniqueIdentifier>{0AF4F83C-7451-4709-9816-4F12547EC099}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\UE4Game\Public\MapGenerator.h">
+      <Filter>Source\UE4Game\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\UE4Game\Public\Tile.h">
       <Filter>Source\UE4Game\Public</Filter>
     </ClInclude>
